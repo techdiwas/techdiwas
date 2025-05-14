@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me:
+## 🙏 About me:
 ![GitHub_Banner_20250514_184925_0000](https://github.com/user-attachments/assets/148a1e29-12be-45ab-959c-debe408d6414)
 My name is **Diwas Neupane**. I'm a nineteen years old computer science enthusiastic person. I'm from a small beautiful country called **Nepal**. I use GitHub to store, build, test, debug and release innovative softwares. I'd like to discover feature rich powerful, beautiful and modern customized operating systems (OSs) made for Android platform. I'm currently using Xiaomi's Redmi 9A smartphone as my daily driver. This smartphone is now old and has stopped receiving updates. Thus, I aim to bring new updates for this smartphone via [LineageOS](https://lineageos.org/)- A free and open-source operating system for various devices, based on the Android mobile platform.
 
@@ -50,3 +50,8 @@ int main() {
 Output:
 Name=Diwas Neupane   Age=19   Education Level=Higher Secondary   Aim=Software engineer
 ```
+
+## 📊 GitHub Stats:
+![Diwas Neupane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techdiwas&show_icons=true&theme=blue)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techdiwas&layout=compact&theme=blue)
