@@ -50,12 +50,3 @@ int main() {
 Output:
 Name=Diwas Neupane   Age=19   Education Level=Higher Secondary   Aim=Software engineer
 ```
-
-- 🔭 I’m currently working on my college projects.
-- 🌱 I’m currently learning programming language.
-- 👯 I’m looking to collaborate on LineageOS.
-- 🤔 I’m looking for help with Android OS development for mt6765 device.
-- 💬 Ask me about Custom Roms.
-- 📫 How to reach me: `diwasneupane652@gmail.com`
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Sky is blue!
