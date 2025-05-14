@@ -21,14 +21,32 @@ My name is **Diwas Neupane**. I'm a nineteen years old computer science enthusia
 
 ```c
 #include <stdio.h>
+
 int main() {
-    char name[10],aim[10],edu_level[15];
+    char name[50], aim[50], edu_level[50];
     int age;
-    scanf("%d%s%s%s",&age,name,aim,edu_level);
-    printf("Name=%s\tAge=%d\tEducation Level=%s\tAim=%s\n",name,age,edu_level,aim);
+
+    printf("Enter your age:\n");
+    scanf("%d", &age);
+    getchar(); // Consume the newline character left by scanf
+
+    printf("Enter your name:\n");
+    fgets(name, sizeof(name), stdin);
+    name[strcspn(name, "\n")] = '\0'; // Remove trailing newline, if any
+
+    printf("Enter your education level:\n");
+    fgets(edu_level, sizeof(edu_level), stdin);
+    edu_level[strcspn(edu_level, "\n")] = '\0';
+
+    printf("Enter your aim:\n");
+    fgets(aim, sizeof(aim), stdin);
+    aim[strcspn(aim, "\n")] = '\0';
+
+    printf("Name=%s\tAge=%d\tEducation Level=%s\tAim=%s\n", name, age, edu_level, aim);
     return 0;
 }
-
+```
+```md
 Output:
 Name=Diwas Neupane   Age=19   Education Level=Higher Secondary   Aim=Software engineer
 ```
