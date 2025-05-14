@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About me:
+My name is **Diwas Neupane**. I'm a nineteen years old computer science enthusiastic person. I'm from a small beautiful country called **Nepal**. I use GitHub to store, build, test, debug and release innovative softwares. I'd like to discover feature rich powerful, beautiful and modern customized operating systems (OSs) made for Android platform. I'm currently using Xiaomi's Redmi 9A smartphone as my daily driver. This smartphone is now old and has stopped receiving updates. Thus, I aim to bring new updates for this smartphone via LineageOS - A free and open-source operating system for various devices, based on the Android mobile platform.
+
 - 🔭 I’m currently working on my college projects.
 - 🌱 I’m currently learning programming language.
 - 👯 I’m looking to collaborate on LineageOS.
