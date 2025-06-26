@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ![techdiwas_banner](./assets/techdiwas_banner.gif)
+
+---
+
+I’m Diwas Neupane — a tech-savvy, goal-driven student with a serious love for software engineering. I dive deep into the world of AOSP and custom ROMs, especially for my Redmi 9A. Whether it’s LineageOS, TWRP, or OrangeFox, I live for that thrill of tweaking, flashing, and making tech bend to my will.
+
+I speak fluent code — C, C++, C#, Python, Java, HTML, CSS, JavaScript, SQL, PHP — name it, I’ve probably built something with it. I balance my traditional values with a forward-thinking mindset. I respect how things were done, but I’m always chasing what’s next.
+
+Hardworking? Always. Humble? You bet. I value family, faith, personality, and relationships as much as I value clean code and a smooth bootloader unlock. I’m here to build, to learn, to grow — and to leave my own digital footprint on this ever-evolving world.
+
+---
