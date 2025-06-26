@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![techdiwas_banner](./assets/techdiwas_banner.png)
+![techdiwas_banner](./assets/techdiwas_banner.gif)
