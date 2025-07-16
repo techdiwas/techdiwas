@@ -16,3 +16,23 @@ Here are some ideas to get you started:
 -->
 
 ![techdiwas_banner](./assets/techdiwas_banner.gif)
+
+---
+
+## 📊 GitHub Stats
+
+![TechDiwas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techdiwas&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Contribution Streak
+
+![TechDiwas's GitHub Streak](https://streak-stats.demolab.com/?user=techdiwas&theme=radical)
+
+---
+
+## 💻 Top Languages
+
+![TechDiwas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techdiwas&layout=compact&theme=radical)
+
+---
