@@ -25,6 +25,8 @@ I speak fluent code — C, C++, C#, Python, Java, HTML, CSS, JavaScript, SQL, PH
 
 Hardworking? Always. Humble? You bet. I value family, faith, personality, and relationships as much as I value clean code and a smooth bootloader unlock. I’m here to build, to learn, to grow — and to leave my own digital footprint on this ever-evolving world.
 
+---
+
 ## 📊 GitHub Stats
 
 ![TechDiwas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techdiwas&show_icons=true&theme=radical)
