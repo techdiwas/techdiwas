@@ -29,7 +29,7 @@ Hardworking? Always. Humble? You bet. I value family, faith, personality, and re
 
 ## 📊 GitHub Stats
 
-![TechDiwas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techdiwas&show_icons=true&theme=radical)
+![TechDiwas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techdiwas&theme=radical)
 
 ---
 
