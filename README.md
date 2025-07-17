@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![TechDiwas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techdiwas&show_icons=true&theme=radical)
+![TechDiwas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techdiwas&theme=radical)
 
 ---
 
