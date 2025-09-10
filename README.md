@@ -19,20 +19,32 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-![TechDiwas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techdiwas&theme=radical)
-
----
-
-## 🔥 Contribution Streak
-
-![TechDiwas's GitHub Streak](https://streak-stats.demolab.com/?user=techdiwas&theme=radical)
+<p align="center">
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=techdiwas&show_icons=true&theme=transparent&hide_title=true&include_all_commits=true&count_private=true" />
+</p>
 
 ---
 
-## 💻 Top Languages
+---
 
-![TechDiwas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techdiwas&layout=compact&theme=radical)
+## 💻 Top Languages:
+
+<p align="center">
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techdiwas&layout=compact&theme=transparent&hide_title=false&langs_count=8" />
+</p>
 
 ---
+
+---
+
+## 🔥 Contribution Streak:
+
+<p align="center">
+  <img height="150" alt="Streak" src="https://streak-stats.demolab.com?user=techdiwas&theme=transparent&hide_border=false" />
+</p>
+
+---
+
+Lots of ❤️.
